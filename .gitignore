@@ -41,6 +41,5 @@ dev.env
 Thumbs.db
 
 # Project specific
-data/*.pdf
 outputs/
 /tmp/
